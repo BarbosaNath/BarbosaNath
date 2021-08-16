@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikishiti&show_icons=true&theme=onedark&locale=en" alt="maikishiti" /></p>
 
 <h3 align="left">Contact me:</h3>
-<h2 align="center">Contato.NathBarbosa@gmail.com</h2>
+<h4 align="center">Contato.NathBarbosa@gmail.com</h4>
