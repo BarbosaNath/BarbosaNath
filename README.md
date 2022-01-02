@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Game Engine using Pygame**
 
-- 🌱 I’m currently learning **Python, JavaScript, Kotlin**
+- 🌱 I’m currently learning **Python, JavaScript, Java**
 
 - 👨‍💻 All of my projects are available on my [github](https://github.com/Maikishiti)
 
