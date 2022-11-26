@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nath</h1>
 <h3 align="center">A passionate Game Developer from Brazil :brazil:</h3>
 
-- 🔭 I’m currently working on **PySimpleGUI project for collage**
+- 🔭 I’m currently working on **PySimpleGUI project for college**
 
 - 🌱 I’m currently learning **nothing 🤡**
 
