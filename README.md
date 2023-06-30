@@ -19,9 +19,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maikishiti&show_icons=true&theme=onedark&locale=en&layout=compact" alt="maikishiti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BarbosaNath&show_icons=true&theme=onedark&locale=en&layout=compact" alt="maikishiti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maikishiti&show_icons=true&theme=onedark&locale=en" alt="maikishiti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BarbosaNath&show_icons=true&theme=onedark&locale=en" alt="maikishiti" /></p>
 
 <h4 align="center">Contact me with:</h4>
 <h5 align="center">Contato.NathBarbosa@gmail.com</h5>
