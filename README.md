@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nath</h1>
 <h3 align="center">A passionate developer from Brazil :brazil:</h3>
 
-- 🔭 I’m currently working on **some projects for college and the COMPASS.UOL internship.**
+<!-- - 🔭 I’m currently working on **some projects for college and the COMPASS.UOL internship.** -->
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available on my [github](https://github.com/Maikishiti)
+- 👨‍💻 All of my projects are available on my [github](https://github.com/BarbosaNath)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,8 @@
 
 <h4 align="center">Portfolio:</h4>
 
-<p align="center">https://portfolio-barbosanath.vercel.app</p>
-
+<p align="center">
+  <a align="center" href="https://BarbosaNath.github.io" target="blank">BarbosaNath.github.io</a>
+</p>
 <h4 align="center">Contact me:</h4>
 <h5 align="center">Contato.NathBarbosa@gmail.com</h5>
